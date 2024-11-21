@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="desafio7:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/desafio7_jar</output-path>
+    <root id="root">
+      <element id="module-output" name="desafio7" />
+    </root>
+  </artifact>
+</component>
